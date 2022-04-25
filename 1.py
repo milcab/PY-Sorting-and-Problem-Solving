@@ -1,5 +1,5 @@
 # Write your solution for algorithm 1 below
-sample_list = [1, 5, 2, 6, 7]
+
 
 def bubble_sort(lst):
     for i in range(len(lst)-1):
